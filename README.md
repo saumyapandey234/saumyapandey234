@@ -1,16 +1,18 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**saumyapandey234/saumyapandey234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building microservices and exploring Spring AI.
+Ask me about : Spring Boot, Microservices, Spring Security, Spring AI.
+How to reach me: @SAUMYAPAND456
+Pronouns : She/her
+Fun fact : My microservices behave better than my Wi-Fi.
+🌐 Socials:
 
-Here are some ideas to get you started:
+Instagram [LinkedIn](https://linkedin.com/in/Saumya Pandey ) Reddit X email
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java HTML5 AWS Render Vercel Angular.js JWT Spring Apache Apache Ant Apache Maven Apache Tomcat MongoDB MySQL Postgres Hibernate Canva Pandas NumPy scikit-learn Scipy GitHub Actions Git GitHub Docker Postman
+📊 GitHub Stats:
+
+
+
+
